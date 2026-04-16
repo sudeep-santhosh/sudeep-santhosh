@@ -1,4 +1,4 @@
-# 💫Hi, I am Sudeep
+# Hi, I am Sudeep
 🚀 Data Analytics & Data Engineering Enthusiast  
 📊 Working on real-time streaming and analytics projects  
 🌱 Currently learning PySpark and distributed data processing  
@@ -10,4 +10,6 @@
 
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=sudeep-santhosh)
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=sudeep-santhosh&theme=tokyonight" />
+</p>
