@@ -1,5 +1,8 @@
 # 💫Hi, I am Sudeep
-I am currently working on my Python library<br>I am currently learning PySpark
+🚀 Data Analytics & Data Engineering Enthusiast  
+📊 Working on real-time streaming and analytics projects  
+🌱 Currently learning PySpark and distributed data processing  
+🎯 Interested in Kafka, ML, and data visualisation
 
 
 # 💻 Tech Stack:
