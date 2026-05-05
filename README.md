@@ -11,5 +11,5 @@
 
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=sudeep-santhosh&theme=tokyonight" />
+  <img src="https://streak-stats.demolab.com?user=sudeep-santhosh&theme=tokyonight&v=1" />
 </p>
